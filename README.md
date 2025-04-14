@@ -28,9 +28,9 @@ Briefly describe the real-world use case and the value it provides.
 `GLITCH GODS`
 
 ### Team Members:  
-- Name 1 (GitHub / LinkedIn / Role)  
-- Name 2  
-- Name 3  
+- Anindya Mukhopadhyay ([GitHub](https://github.com/anindya-mukhopadhyay) / [LinkedIn](https://www.linkedin.com/in/anindyamukhopadhyay/) / Role)  
+- Aritra Lala  (GitHub / [LinkedIn](https://www.linkedin.com/in/aritra-lala-b62baa336/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=in) / Role) 
+- Sneha Karmakar  (GitHub /[ LinkedIn](https://www.linkedin.com/in/sneha-karmakar-aa1330225/) / Role) 
 *(Add links if you want)*
 
 ### Your Approach:  
